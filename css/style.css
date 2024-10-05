@@ -1,12 +1,12 @@
 body {
-  background-color: #f9f7fe;
+  background: #e4f1fe;
   font-family: sans-serif;
 }
 
 .container {
   max-width: 600px;
   margin: 60px auto;
-  background: white;
+  background: linear-gradient(67.6deg, rgb(225, 242, 254) -2.8%, rgb(193, 224, 250) 44.6%, rgb(19, 116, 197) 102.4%);
   padding: 30px;
   box-shadow: 10px 10px 10px rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;;
   border-radius: 10px;
@@ -56,5 +56,5 @@ select {
 footer {
   text-align: center;
   font-size: 18px;
-  color: rgba(0, 0, 0, 0.4);
+  color: black;
 }
